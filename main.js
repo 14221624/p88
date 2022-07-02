@@ -7,8 +7,8 @@ ball_y=0;
 hole_y=400;
 hole_x=800
 
-block_image_width = 5;
-block_image_height = 5;
+block_image_width = 50;
+block_image_height = 50;
 
 function load_img(){
 	// write code to Upload golf image on the canvas
